@@ -247,12 +247,12 @@ svg {
         grid-template-columns: repeat(1, 1fr);
     }
     .myskills {
-    color: black;
-    font-size: 3rem;
+        color: black;
+        font-size: 3rem;
     }
     .myskills span{
-    color: yellow;
-    font-size: 3rem;
+        color: #f6ff00;
+        font-size: 3rem;
     }
 }
 
