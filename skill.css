@@ -246,8 +246,8 @@ svg {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
-    .Skills{
-        font-size: 3rem;
+    .myskills{
+        color: red;
         margin: 20px 50px;
         padding-left: 15px;
     }
