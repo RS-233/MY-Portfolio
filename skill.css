@@ -242,6 +242,10 @@ svg {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
+    .Skills{
+        margin: 20px 50px;
+        padding-left: 15px;
+    }
 
 }
 
